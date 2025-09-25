@@ -1,0 +1,41 @@
+service_id,service_name,service_category,description,hourly_rate,standard_price,account_code,active,service_type
+SRV001,IT Strategy Consulting,Consulting,Strategic IT planning and roadmap development,150.00,2500.00,4110,TRUE,Consulting
+SRV002,Software Development,Development,Custom software application development,125.00,8000.00,4130,TRUE,Project-based
+SRV003,System Integration,Integration,Integration of disparate business systems,140.00,5000.00,4110,TRUE,Project-based
+SRV004,Database Design,Development,Database architecture and optimization,130.00,3500.00,4130,TRUE,Project-based
+SRV005,Cloud Migration,Infrastructure,Migration of systems to cloud platforms,135.00,12000.00,4110,TRUE,Project-based
+SRV006,Cybersecurity Assessment,Security,Comprehensive security audit and recommendations,160.00,4500.00,4110,TRUE,Consulting
+SRV007,Network Design,Infrastructure,Network architecture and implementation,145.00,6500.00,4110,TRUE,Project-based
+SRV008,Mobile App Development,Development,iOS and Android application development,120.00,15000.00,4130,TRUE,Project-based
+SRV009,Web Development,Development,Responsive website and web application development,115.00,7500.00,4130,TRUE,Project-based
+SRV010,UI/UX Design,Design,User interface and user experience design,110.00,4000.00,4130,TRUE,Project-based
+SRV011,IT Support Services,Support,Ongoing technical support and maintenance,95.00,2000.00,4120,TRUE,Recurring
+SRV012,Help Desk Services,Support,24/7 technical help desk support,85.00,1500.00,4120,TRUE,Recurring
+SRV013,System Monitoring,Support,Proactive system monitoring and alerts,75.00,1200.00,4120,TRUE,Recurring
+SRV014,Backup and Recovery,Infrastructure,Data backup and disaster recovery services,100.00,2500.00,4120,TRUE,Recurring
+SRV015,Server Maintenance,Infrastructure,Regular server maintenance and updates,105.00,1800.00,4120,TRUE,Recurring
+SRV016,Software Training,Training,User training for software applications,90.00,1000.00,4110,TRUE,Training
+SRV017,Technical Documentation,Documentation,Creation of technical manuals and guides,80.00,1500.00,4110,TRUE,Consulting
+SRV018,Project Management,Management,IT project management and coordination,125.00,3000.00,4110,TRUE,Consulting
+SRV019,Quality Assurance Testing,Testing,Software testing and quality assurance,95.00,2500.00,4110,TRUE,Project-based
+SRV020,Performance Optimization,Optimization,System performance analysis and optimization,140.00,3500.00,4110,TRUE,Consulting
+SRV021,Data Analytics,Analytics,Business intelligence and data analysis services,145.00,5000.00,4110,TRUE,Consulting
+SRV022,E-commerce Solutions,Development,Online store development and integration,120.00,10000.00,4130,TRUE,Project-based
+SRV023,CRM Implementation,Implementation,Customer relationship management system setup,135.00,8500.00,4110,TRUE,Project-based
+SRV024,ERP Consulting,Consulting,Enterprise resource planning consultation,155.00,12000.00,4110,TRUE,Consulting
+SRV025,Compliance Auditing,Compliance,IT compliance and regulatory auditing,150.00,4000.00,4110,TRUE,Consulting
+SRV026,Virtual Infrastructure,Infrastructure,Virtual server and infrastructure setup,130.00,6000.00,4110,TRUE,Project-based
+SRV027,API Development,Development,Custom API development and integration,125.00,4500.00,4130,TRUE,Project-based
+SRV028,DevOps Services,Infrastructure,Development operations and automation,140.00,7000.00,4110,TRUE,Project-based
+SRV029,Digital Transformation,Consulting,Digital business transformation consulting,160.00,15000.00,4110,TRUE,Consulting
+SRV030,Maintenance Contracts,Support,Annual maintenance and support contracts,0.00,5000.00,4120,TRUE,Contract
+SRV031,Emergency Support,Support,After-hours emergency technical support,200.00,500.00,4120,TRUE,On-demand
+SRV032,Hardware Procurement,Procurement,IT hardware sourcing and procurement,0.00,0.00,4300,TRUE,Procurement
+SRV033,Software Licensing,Licensing,Software license management and procurement,0.00,0.00,4300,TRUE,Procurement
+SRV034,Vendor Management,Management,IT vendor relationship management,120.00,2000.00,4110,TRUE,Consulting
+SRV035,Risk Assessment,Assessment,IT risk assessment and mitigation planning,145.00,3500.00,4110,TRUE,Consulting
+SRV036,Change Management,Management,IT change management and process improvement,130.00,4000.00,4110,TRUE,Consulting
+SRV037,Business Continuity,Planning,Business continuity and disaster recovery planning,150.00,6000.00,4110,TRUE,Consulting
+SRV038,Technology Roadmapping,Planning,Technology strategy and roadmap development,155.00,5500.00,4110,TRUE,Consulting
+SRV039,Legacy System Migration,Migration,Migration from legacy systems to modern platforms,140.00,10000.00,4110,TRUE,Project-based
+SRV040,Cloud Optimization,Optimization,Cloud infrastructure optimization and cost reduction,135.00,4500.00,4110,TRUE,Consulting

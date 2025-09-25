@@ -1,0 +1,75 @@
+account_code,account_name,account_type,parent_account,balance,description
+1000,Assets,Asset,,0,Total Assets
+1100,Current Assets,Asset,1000,0,Assets expected to be converted to cash within one year
+1110,Cash and Cash Equivalents,Asset,1100,125000,Cash in bank and on hand
+1111,Checking Account - Main,Asset,1110,85000,Primary business checking account
+1112,Savings Account,Asset,1110,35000,Business savings account
+1113,Petty Cash,Asset,1110,5000,Cash on hand for small expenses
+1120,Accounts Receivable,Asset,1100,45000,Money owed by customers
+1130,Inventory,Asset,1100,32000,Products held for sale
+1140,Prepaid Expenses,Asset,1100,8000,Expenses paid in advance
+1141,Prepaid Insurance,Asset,1140,3000,Insurance premiums paid in advance
+1142,Prepaid Rent,Asset,1140,5000,Rent paid in advance
+1200,Fixed Assets,Asset,1000,0,Long-term assets
+1210,Equipment,Asset,1200,45000,Business equipment and machinery
+1220,Furniture and Fixtures,Asset,1200,15000,Office furniture and fixtures
+1230,Vehicles,Asset,1200,25000,Company vehicles
+1240,Accumulated Depreciation,Asset,1200,-12000,Cumulative depreciation on fixed assets
+2000,Liabilities,Liability,,0,Total Liabilities
+2100,Current Liabilities,Liability,2000,0,Debts due within one year
+2110,Accounts Payable,Liability,2100,18000,Money owed to vendors
+2120,Accrued Expenses,Liability,2100,7500,Expenses incurred but not yet paid
+2121,Accrued Salaries,Liability,2120,4500,Salaries earned but not yet paid
+2122,Accrued Taxes,Liability,2120,3000,Taxes owed but not yet paid
+2130,Short-term Loans,Liability,2100,15000,Loans due within one year
+2200,Long-term Liabilities,Liability,2000,0,Debts due after one year
+2210,Long-term Loans,Liability,2200,35000,Loans due after one year
+2220,Equipment Financing,Liability,2200,12000,Financing for equipment purchases
+3000,Equity,Equity,,0,Owner's equity in the business
+3100,Owner's Equity,Equity,3000,195500,Owner's investment and retained earnings
+3110,Owner's Capital,Equity,3100,150000,Initial and additional owner investments
+3120,Retained Earnings,Equity,3100,45500,Accumulated profits retained in business
+4000,Revenue,Revenue,,0,Income from business operations
+4100,Service Revenue,Revenue,4000,0,Income from services provided
+4110,Consulting Services,Revenue,4100,0,Revenue from consulting work
+4120,IT Support Services,Revenue,4100,0,Revenue from IT support
+4130,Software Development,Revenue,4100,0,Revenue from software projects
+4200,Product Sales,Revenue,4000,0,Income from product sales
+4300,Other Revenue,Revenue,4000,0,Miscellaneous income
+5000,Cost of Goods Sold,Expense,,0,Direct costs of products/services sold
+5100,Direct Materials,Expense,5000,0,Cost of materials used in products
+5200,Direct Labor,Expense,5000,0,Labor costs directly related to production
+5300,Subcontractor Costs,Expense,5000,0,Costs for subcontracted work
+6000,Operating Expenses,Expense,,0,Regular business operating costs
+6100,Payroll Expenses,Expense,6000,0,Employee compensation costs
+6110,Salaries and Wages,Expense,6100,0,Employee salaries and hourly wages
+6120,Payroll Taxes,Expense,6100,0,Employer portion of payroll taxes
+6130,Employee Benefits,Expense,6100,0,Health insurance and other benefits
+6200,Office Expenses,Expense,6000,0,General office operating costs
+6210,Rent,Expense,6200,0,Office rent payments
+6220,Utilities,Expense,6200,0,Electric gas water internet
+6230,Office Supplies,Expense,6200,0,Paper pens and general supplies
+6240,Telephone,Expense,6200,0,Phone and communication costs
+6300,Professional Services,Expense,6000,0,External professional services
+6310,Legal Fees,Expense,6300,0,Attorney and legal costs
+6320,Accounting Fees,Expense,6300,0,Bookkeeping and tax preparation
+6330,Consulting Fees,Expense,6300,0,Business consulting services
+6400,Marketing and Advertising,Expense,6000,0,Promotional and marketing costs
+6410,Website Expenses,Expense,6400,0,Website hosting and maintenance
+6420,Advertising,Expense,6400,0,Online and print advertising
+6430,Trade Shows,Expense,6400,0,Exhibition and trade show costs
+6500,Travel and Entertainment,Expense,6000,0,Business travel and client entertainment
+6510,Travel Expenses,Expense,6500,0,Airfare hotels and transportation
+6520,Meals and Entertainment,Expense,6500,0,Client meals and entertainment
+6600,Vehicle Expenses,Expense,6000,0,Company vehicle costs
+6610,Fuel,Expense,6600,0,Gasoline and vehicle fuel
+6620,Vehicle Maintenance,Expense,6600,0,Repairs and maintenance
+6630,Vehicle Insurance,Expense,6600,0,Auto insurance premiums
+6700,Insurance,Expense,6000,0,Business insurance costs
+6710,General Liability,Expense,6700,0,General business liability insurance
+6720,Professional Liability,Expense,6700,0,Errors and omissions insurance
+6800,Depreciation,Expense,6000,0,Depreciation of fixed assets
+6900,Other Expenses,Expense,6000,0,Miscellaneous business expenses
+6910,Bank Fees,Expense,6900,0,Banking and financial service fees
+6920,Software Subscriptions,Expense,6900,0,Business software and SaaS costs
+6930,Training and Education,Expense,6900,0,Employee training and development

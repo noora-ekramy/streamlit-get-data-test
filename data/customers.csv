@@ -1,0 +1,26 @@
+customer_id,customer_name,contact_person,email,phone,address,city,state,zip_code,tax_id,payment_terms,customer_type,credit_limit,active
+C001,Innovative Tech Corp,Emily Watson,emily.watson@innovativetech.com,555-1001,1000 Innovation Dr,Seattle,WA,98101,98-7654321,Net 30,Corporate,50000.00,TRUE
+C002,GreenSpace Solutions,David Rodriguez,david.r@greenspacesolutions.com,555-1002,2500 Eco Boulevard,Portland,OR,97201,87-6543210,Net 45,Corporate,75000.00,TRUE
+C003,MetroCity Hospital,Dr. Sarah Kim,sarah.kim@metrocityhospital.org,555-1003,500 Health Plaza,San Francisco,CA,94102,76-5432109,Net 30,Healthcare,100000.00,TRUE
+C004,Alpine Manufacturing,Robert Johnson,rjohnson@alpinemfg.com,555-1004,7800 Factory Lane,Denver,CO,80202,65-4321098,Net 15,Manufacturing,60000.00,TRUE
+C005,Coastal Retail Group,Jennifer Martinez,jmartinez@coastalretail.com,555-1005,3200 Shopping Center Blvd,Los Angeles,CA,90210,54-3210987,Net 30,Retail,40000.00,TRUE
+C006,Education First Academy,Michael Thompson,mthompson@educationfirst.edu,555-1006,1500 Learning Way,Austin,TX,78701,43-2109876,Net 45,Education,30000.00,TRUE
+C007,Financial Services Inc,Lisa Chen,lchen@financialservices.com,555-1007,9000 Money Street,New York,NY,10001,32-1098765,Net 15,Financial,80000.00,TRUE
+C008,StartUp Innovations,James Wilson,jwilson@startupinnovations.com,555-1008,450 Venture Ave,San Jose,CA,95101,21-0987654,Net 30,Technology,25000.00,TRUE
+C009,Regional Law Firm,Patricia Davis,pdavis@regionallawfirm.com,555-1009,1200 Justice Blvd,Chicago,IL,60601,10-9876543,Net 30,Legal,45000.00,TRUE
+C010,Healthcare Partners,Dr. Kevin Brown,kbrown@healthcarepartners.com,555-1010,800 Medical Plaza,Miami,FL,33101,99-8765432,Net 30,Healthcare,65000.00,TRUE
+C011,Tech Startup Hub,Amanda Taylor,ataylor@techstartuphub.com,555-1011,1600 Silicon Valley Dr,Palo Alto,CA,94301,88-7654321,Net 30,Technology,35000.00,TRUE
+C012,Community Bank Corp,Christopher Lee,clee@communitybank.com,555-1012,2000 Banking Street,Boston,MA,02101,77-6543210,Net 15,Financial,90000.00,TRUE
+C013,Retail Solutions Pro,Michelle Garcia,mgarcia@retailsolutions.com,555-1013,3500 Commerce Way,Atlanta,GA,30301,66-5432109,Net 30,Retail,50000.00,TRUE
+C014,Industrial Systems,Daniel Harris,dharris@industrialsystems.com,555-1014,4200 Manufacturing Dr,Detroit,MI,48201,55-4321098,Net 30,Manufacturing,70000.00,TRUE
+C015,Digital Marketing Plus,Rebecca Clark,rclark@digitalmarketingplus.com,555-1015,950 Creative Blvd,Nashville,TN,37201,44-3210987,Net 30,Marketing,30000.00,TRUE
+C016,Construction Dynamics,Mark Lewis,mlewis@constructiondynamics.com,555-1016,5500 Builder Lane,Phoenix,AZ,85001,33-2109876,Net 30,Construction,85000.00,TRUE
+C017,Food Service Corp,Nancy Walker,nwalker@foodservicecorp.com,555-1017,1800 Restaurant Row,Las Vegas,NV,89101,22-1098765,Net 15,Food Service,40000.00,TRUE
+C018,Energy Solutions Ltd,Steven Hall,shall@energysolutions.com,555-1018,6200 Power Avenue,Houston,TX,77001,11-0987654,Net 30,Energy,95000.00,TRUE
+C019,Media Production House,Laura Young,lyoung@mediaproduction.com,555-1019,2200 Studio Street,Los Angeles,CA,90028,00-9876543,Net 30,Media,45000.00,TRUE
+C020,Transportation Network,Kevin Allen,kallen@transportationnetwork.com,555-1020,7000 Logistics Blvd,Memphis,TN,38101,99-8765431,Net 30,Logistics,60000.00,TRUE
+C021,Small Business Consulting,Mary Scott,mscott@smallbizconsulting.com,555-1021,320 Main Street,Burlington,VT,05401,88-7654320,Net 30,Consulting,20000.00,TRUE
+C022,Local Restaurant Group,Thomas Green,tgreen@localrestaurants.com,555-1022,1100 Dining Plaza,Portland,ME,04101,77-6543209,Net 15,Food Service,25000.00,TRUE
+C023,Fitness Center Chain,Barbara Adams,badams@fitnesscenters.com,555-1023,4500 Wellness Way,San Diego,CA,92101,66-5432108,Net 30,Fitness,35000.00,TRUE
+C024,Property Management Co,Charles Baker,cbaker@propertymanagement.com,555-1024,2800 Real Estate Dr,Orlando,FL,32801,55-4321097,Net 30,Real Estate,55000.00,TRUE
+C025,Nonprofit Foundation,Dorothy Gonzalez,dgonzalez@nonprofitfoundation.org,555-1025,1000 Charity Lane,Washington,DC,20001,44-3210986,Net 45,Nonprofit,15000.00,TRUE

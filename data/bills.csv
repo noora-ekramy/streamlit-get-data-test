@@ -1,0 +1,41 @@
+bill_id,vendor_id,bill_number,date_issued,due_date,amount,account_code,description,status,payment_date,discount_amount
+BILL001,V001,TS-2024-001,2024-09-01,2024-10-01,2800.00,1210,Computer equipment order,Outstanding,,0.00
+BILL002,V002,OE-2024-078,2024-09-03,2024-09-18,450.75,6230,Monthly office supplies,Outstanding,,0.00
+BILL003,V003,CH-2024-156,2024-09-05,2024-10-05,575.00,6920,Monthly hosting services,Outstanding,,0.00
+BILL004,V004,LP-2024-033,2024-09-08,2024-10-23,1850.00,6310,Contract legal review,Outstanding,,0.00
+BILL005,V005,MD-2024-089,2024-09-10,2024-10-10,3200.00,6420,Q4 marketing campaign,Outstanding,,0.00
+BILL006,V006,PL-2024-267,2024-09-12,2024-09-27,720.00,6220,September utilities,Outstanding,,0.00
+BILL007,V007,MIG-2024-045,2024-09-15,2024-10-15,2100.00,6710,Quarterly insurance premium,Outstanding,,0.00
+BILL008,V008,FMP-2024-112,2024-09-18,2024-10-18,385.00,6620,Vehicle maintenance service,Outstanding,,0.00
+BILL009,V009,BBC-2024-334,2024-09-20,2024-09-20,25.00,6910,Monthly banking fees,Outstanding,,0.00
+BILL010,V010,SSI-2024-067,2024-09-22,2024-10-22,950.00,6920,Software license renewal,Outstanding,,0.00
+BILL011,V011,TA-2024-156,2024-08-28,2024-09-27,675.00,6930,Employee training program,Paid,2024-09-25,0.00
+BILL012,V012,CE-2024-089,2024-08-30,2024-09-29,2400.00,6330,Strategic consulting project,Paid,2024-09-26,50.00
+BILL013,V013,TSP-2024-234,2024-08-25,2024-09-09,1125.00,6510,Business travel expenses,Paid,2024-09-08,0.00
+BILL014,V014,QPS-2024-178,2024-08-20,2024-09-04,295.00,6420,Marketing materials printing,Paid,2024-09-03,0.00
+BILL015,V015,SSC-2024-045,2024-08-15,2024-09-14,1750.00,6200,Security system upgrade,Paid,2024-09-12,0.00
+BILL016,V016,CE-2024-567,2024-08-10,2024-08-10,245.00,6520,Client meeting catering,Paid,2024-08-10,0.00
+BILL017,V017,CSP-2024-234,2024-08-05,2024-08-20,400.00,6200,August cleaning services,Paid,2024-08-18,0.00
+BILL018,V018,ERC-2024-089,2024-07-28,2024-08-27,350.00,1210,Equipment rental - month,Paid,2024-08-25,0.00
+BILL019,V019,DAI-2024-156,2024-07-25,2024-08-24,825.00,6330,Data analysis project,Paid,2024-08-22,0.00
+BILL020,V020,FL-2024-678,2024-07-20,2024-08-19,195.00,6500,Package delivery services,Paid,2024-08-17,0.00
+BILL021,V001,TS-2024-002,2024-09-25,2024-10-25,1650.00,6230,IT accessories and cables,Outstanding,,0.00
+BILL022,V003,CH-2024-157,2024-09-23,2024-10-23,225.00,6410,Domain renewal services,Outstanding,,0.00
+BILL023,V006,PL-2024-268,2024-09-01,2024-09-16,320.00,6220,August gas bill,Paid,2024-09-14,0.00
+BILL024,V002,OE-2024-079,2024-08-28,2024-09-12,380.25,6230,Office furniture accessories,Paid,2024-09-10,15.00
+BILL025,V007,MIG-2024-046,2024-09-01,2024-10-01,850.00,6630,Vehicle insurance renewal,Outstanding,,0.00
+BILL026,V004,LP-2024-034,2024-09-15,2024-10-30,750.00,6310,Employment law consultation,Outstanding,,0.00
+BILL027,V011,TA-2024-157,2024-09-20,2024-10-20,485.00,6930,Online course subscriptions,Outstanding,,0.00
+BILL028,V012,CE-2024-090,2024-09-18,2024-10-18,1950.00,6330,Process improvement consulting,Outstanding,,0.00
+BILL029,V008,FMP-2024-113,2024-09-16,2024-10-16,155.00,6610,Vehicle fuel charges,Outstanding,,0.00
+BILL030,V005,MD-2024-090,2024-09-14,2024-10-14,1200.00,6420,Website redesign project,Outstanding,,0.00
+BILL031,V010,SSI-2024-068,2024-09-12,2024-10-12,425.00,6920,Cloud backup services,Outstanding,,0.00
+BILL032,V013,TSP-2024-235,2024-09-10,2024-09-25,675.00,6510,Conference registration,Outstanding,,0.00
+BILL033,V014,QPS-2024-179,2024-09-08,2024-09-23,185.00,6230,Business stationery,Outstanding,,0.00
+BILL034,V015,SSC-2024-046,2024-09-06,2024-10-06,295.00,6200,Monthly security monitoring,Outstanding,,0.00
+BILL035,V017,CSP-2024-235,2024-09-04,2024-09-19,400.00,6200,September cleaning services,Outstanding,,0.00
+BILL036,V019,DAI-2024-157,2024-09-02,2024-10-02,375.00,6330,Monthly analytics dashboard,Outstanding,,0.00
+BILL037,V020,FL-2024-679,2024-08-30,2024-09-29,285.00,6500,International shipping,Outstanding,,0.00
+BILL038,V016,CE-2024-568,2024-08-28,2024-08-28,165.00,6520,Staff appreciation lunch,Paid,2024-08-28,0.00
+BILL039,V018,ERC-2024-090,2024-08-26,2024-09-25,275.00,1210,AV equipment rental,Outstanding,,0.00
+BILL040,V009,BBC-2024-335,2024-08-24,2024-08-24,30.00,6910,Wire transfer fees,Paid,2024-08-24,0.00

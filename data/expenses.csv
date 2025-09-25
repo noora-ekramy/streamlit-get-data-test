@@ -1,0 +1,51 @@
+expense_id,date,vendor_id,account_code,description,amount,payment_method,reference_number,category,status
+EXP001,2024-01-15,V006,6220,Monthly electricity bill,850.00,ACH,PWR-2024-001,Utilities,Paid
+EXP002,2024-01-15,V002,6230,Office supplies - paper and pens,245.75,Credit Card,CC-2024-001,Office Supplies,Paid
+EXP003,2024-01-20,V001,1210,New laptop computers,3200.00,Check,CHK-2024-001,Equipment,Paid
+EXP004,2024-01-25,V004,6310,Legal consultation - contract review,1200.00,Check,CHK-2024-002,Professional Services,Paid
+EXP005,2024-02-01,V006,6220,Monthly gas bill,320.00,ACH,PWR-2024-002,Utilities,Paid
+EXP006,2024-02-05,V005,6420,Digital marketing campaign,2500.00,Credit Card,CC-2024-002,Marketing,Paid
+EXP007,2024-02-10,V003,6920,Cloud hosting services,450.00,ACH,CLOUD-2024-001,Software,Paid
+EXP008,2024-02-15,V007,6710,General liability insurance,1800.00,Check,CHK-2024-003,Insurance,Paid
+EXP009,2024-02-20,V008,6620,Vehicle maintenance,675.00,Credit Card,CC-2024-003,Vehicle,Paid
+EXP010,2024-02-25,V010,6920,Software licenses,890.00,ACH,SOFT-2024-001,Software,Paid
+EXP011,2024-03-01,V006,6220,Monthly electricity bill,920.00,ACH,PWR-2024-003,Utilities,Paid
+EXP012,2024-03-05,V002,6230,Office supplies - toner cartridges,180.50,Credit Card,CC-2024-004,Office Supplies,Paid
+EXP013,2024-03-10,V013,6510,Business travel - conference,1350.00,Credit Card,CC-2024-005,Travel,Paid
+EXP014,2024-03-15,V011,6930,Employee training seminar,750.00,Check,CHK-2024-004,Training,Paid
+EXP015,2024-03-20,V012,6330,Business consulting services,2200.00,Check,CHK-2024-005,Consulting,Paid
+EXP016,2024-03-25,V014,6230,Business cards and brochures,325.00,Credit Card,CC-2024-006,Marketing,Paid
+EXP017,2024-04-01,V006,6220,Monthly gas bill,380.00,ACH,PWR-2024-004,Utilities,Paid
+EXP018,2024-04-05,V015,6200,Security system installation,1500.00,Check,CHK-2024-006,Security,Paid
+EXP019,2024-04-10,V003,6920,Additional cloud storage,200.00,ACH,CLOUD-2024-002,Software,Paid
+EXP020,2024-04-15,V016,6520,Client lunch meeting,125.00,Credit Card,CC-2024-007,Entertainment,Paid
+EXP021,2024-04-20,V017,6200,Office cleaning services,400.00,ACH,CLEAN-2024-001,Cleaning,Paid
+EXP022,2024-04-25,V009,6910,Bank service fees,45.00,Debit,BANK-2024-001,Banking,Paid
+EXP023,2024-05-01,V006,6220,Monthly electricity bill,875.00,ACH,PWR-2024-005,Utilities,Paid
+EXP024,2024-05-05,V001,6230,Computer accessories,450.00,Credit Card,CC-2024-008,Office Supplies,Paid
+EXP025,2024-05-10,V018,1210,Equipment rental - projector,200.00,Check,CHK-2024-007,Equipment,Paid
+EXP026,2024-05-15,V019,6330,Data analytics consultation,1750.00,Check,CHK-2024-008,Consulting,Paid
+EXP027,2024-05-20,V020,6500,Shipping and logistics,350.00,ACH,SHIP-2024-001,Logistics,Paid
+EXP028,2024-05-25,V008,6610,Vehicle fuel costs,280.00,Credit Card,CC-2024-009,Vehicle,Paid
+EXP029,2024-06-01,V006,6220,Monthly gas bill,340.00,ACH,PWR-2024-006,Utilities,Paid
+EXP030,2024-06-05,V002,6230,Office furniture - desk chairs,1200.00,Check,CHK-2024-009,Furniture,Paid
+EXP031,2024-06-10,V005,6420,Social media advertising,800.00,Credit Card,CC-2024-010,Marketing,Paid
+EXP032,2024-06-15,V004,6310,Legal fees - trademark filing,950.00,Check,CHK-2024-010,Legal,Paid
+EXP033,2024-06-20,V010,6920,Software maintenance,650.00,ACH,SOFT-2024-002,Software,Paid
+EXP034,2024-06-25,V011,6930,Professional development course,550.00,Credit Card,CC-2024-011,Training,Paid
+EXP035,2024-07-01,V006,6220,Monthly electricity bill,950.00,ACH,PWR-2024-007,Utilities,Paid
+EXP036,2024-07-05,V017,6200,Monthly cleaning service,400.00,ACH,CLEAN-2024-002,Cleaning,Paid
+EXP037,2024-07-10,V013,6510,Business travel - client visit,975.00,Credit Card,CC-2024-012,Travel,Paid
+EXP038,2024-07-15,V003,6920,Website hosting upgrade,150.00,ACH,CLOUD-2024-003,Software,Paid
+EXP039,2024-07-20,V016,6520,Team building dinner,320.00,Credit Card,CC-2024-013,Entertainment,Paid
+EXP040,2024-07-25,V008,6620,Vehicle inspection and registration,185.00,Check,CHK-2024-011,Vehicle,Paid
+EXP041,2024-08-01,V006,6220,Monthly gas bill,365.00,ACH,PWR-2024-008,Utilities,Paid
+EXP042,2024-08-05,V002,6230,Office supplies - notebooks and folders,195.00,Credit Card,CC-2024-014,Office Supplies,Paid
+EXP043,2024-08-10,V012,6330,Strategic planning consultation,2800.00,Check,CHK-2024-012,Consulting,Paid
+EXP044,2024-08-15,V007,6720,Professional liability insurance,1200.00,Check,CHK-2024-013,Insurance,Paid
+EXP045,2024-08-20,V014,6420,Trade show materials,680.00,Credit Card,CC-2024-015,Marketing,Paid
+EXP046,2024-08-25,V020,6500,Express shipping costs,125.00,ACH,SHIP-2024-002,Logistics,Paid
+EXP047,2024-09-01,V006,6220,Monthly electricity bill,890.00,ACH,PWR-2024-009,Utilities,Paid
+EXP048,2024-09-05,V019,6330,Monthly analytics service,450.00,ACH,DATA-2024-001,Analytics,Paid
+EXP049,2024-09-10,V001,1210,Network equipment upgrade,2400.00,Check,CHK-2024-014,Equipment,Paid
+EXP050,2024-09-15,V010,6920,Annual software renewal,1200.00,ACH,SOFT-2024-003,Software,Pending

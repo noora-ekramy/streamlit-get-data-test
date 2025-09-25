@@ -1,0 +1,21 @@
+vendor_id,vendor_name,contact_person,email,phone,address,city,state,zip_code,tax_id,payment_terms,vendor_type,active
+V001,TechSupply Solutions,Sarah Johnson,sarah.johnson@techsupply.com,555-0123,1234 Technology Blvd,San Francisco,CA,94102,12-3456789,Net 30,Equipment,TRUE
+V002,Office Express Inc,Michael Chen,michael.chen@officeexpress.com,555-0124,5678 Business Ave,New York,NY,10001,23-4567890,Net 15,Office Supplies,TRUE
+V003,CloudHost Services,Jennifer Davis,j.davis@cloudhost.com,555-0125,9012 Server St,Austin,TX,73301,34-5678901,Net 30,IT Services,TRUE
+V004,Legal Partners LLC,Robert Wilson,rwilson@legalpartners.com,555-0126,3456 Law Plaza,Chicago,IL,60601,45-6789012,Net 45,Professional Services,TRUE
+V005,Marketing Dynamics,Lisa Martinez,lisa@marketingdynamics.com,555-0127,7890 Creative Blvd,Los Angeles,CA,90210,56-7890123,Net 30,Marketing,TRUE
+V006,Power & Light Co,David Thompson,billing@powerlight.com,555-0128,1111 Energy Way,Denver,CO,80202,67-8901234,Net 15,Utilities,TRUE
+V007,Metro Insurance Group,Amanda Rodriguez,arodriguez@metroinsurance.com,555-0129,2222 Insurance Plaza,Miami,FL,33101,78-9012345,Net 30,Insurance,TRUE
+V008,Fleet Maintenance Pro,James Anderson,james@fleetmaintenance.com,555-0130,3333 Garage Row,Phoenix,AZ,85001,89-0123456,Net 30,Vehicle Services,TRUE
+V009,Business Bank Corp,Karen White,kwhite@businessbank.com,555-0131,4444 Financial St,Seattle,WA,98101,90-1234567,Immediate,Banking,TRUE
+V010,Software Solutions Inc,Thomas Brown,tbrown@softwaresolutions.com,555-0132,5555 Code Ave,Portland,OR,97201,01-2345678,Net 30,Software,TRUE
+V011,Training Academy,Patricia Miller,pmiller@trainingacademy.com,555-0133,6666 Education Dr,Boston,MA,02101,12-3456780,Net 30,Training,TRUE
+V012,Consulting Experts,Christopher Taylor,ctaylor@consultingexperts.com,555-0134,7777 Advisory Ln,Atlanta,GA,30301,23-4567891,Net 30,Consulting,TRUE
+V013,Travel Services Plus,Michelle Garcia,mgarcia@travelservices.com,555-0135,8888 Journey Blvd,Las Vegas,NV,89101,34-5678902,Net 15,Travel,TRUE
+V014,QuickPrint Solutions,Daniel Lee,dlee@quickprint.com,555-0136,9999 Print Way,Dallas,TX,75201,45-6789013,Net 15,Printing,TRUE
+V015,Security Systems Corp,Rebecca Harris,rharris@securitysystems.com,555-0137,1010 Safety St,San Diego,CA,92101,56-7890124,Net 30,Security,TRUE
+V016,Catering Excellence,Kevin Clark,kclark@cateringexcellence.com,555-0138,1111 Food Plaza,Nashville,TN,37201,67-8901235,COD,Catering,TRUE
+V017,Cleaning Services Pro,Laura Lewis,llewis@cleaningpro.com,555-0139,1212 Mop Ave,Detroit,MI,48201,78-9012346,Net 15,Cleaning,TRUE
+V018,Equipment Rental Co,Mark Walker,mwalker@equipmentrental.com,555-0140,1313 Rental Row,Houston,TX,77001,89-0123457,Net 30,Equipment Rental,TRUE
+V019,Data Analytics Inc,Nancy Hall,nhall@dataanalytics.com,555-0141,1414 Data Dr,Minneapolis,MN,55401,90-1234568,Net 30,Analytics,TRUE
+V020,Freight Logistics,Steven Young,syoung@freightlogistics.com,555-0142,1515 Shipping St,Baltimore,MD,21201,01-2345679,Net 30,Logistics,TRUE
